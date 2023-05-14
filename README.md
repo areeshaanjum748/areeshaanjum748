@@ -2,9 +2,7 @@
 <h3 align="center">Machine Learning Enthusiast</h3>
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/PX1doq1mxnYAAAAM/girl-hacker.gif">
 
-- 🔭 I’m currently working on **Spotify Clone**
-
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **areeshaanjum748@gmail.com**
 
