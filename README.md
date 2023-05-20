@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **areeshaanjum748@gmail.com**
 
+- 👨‍💻 Look at my portfolio **https://sites.google.com/view/areesha-anjum**
+
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
